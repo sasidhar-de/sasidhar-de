@@ -4,12 +4,11 @@ Welcome to my digital workspace! I specialize in engineering scalable, fault tol
 
 ### 🚀 What I Do
 * **Lakehouse Engineering:** Building end to end Medallion architectures (Bronze, Silver, Gold) using **Databricks** and **Delta Lake**.
-* **Resilient Pipelines:** Designing dynamic PySpark metaprogramming frameworks to auto detect and handle upstream schema mutations.
 * **Enterprise Governance:** Implementing strict Data Quality (DQ) constraints and managing data assets natively within **Unity Catalog**.
 * **Orchestration:** Crafting optimized, parallel executing DAGs via Databricks Workflows and external orchestrators.
 
 ### 🏆 Featured Project
-* [**Praxas Enterprise Lakehouse**](link-to-your-repo): An orchestrated batch processing pipeline that ingests raw JSON, applies a "Universal Bronze Shield" for schema protection, performs complex cross currency joins, and serves aggregated financial data via Databricks AI/BI Genie spaces. 
+* [**Prx Enterprise Lakehouse**](https://github.com/sasidhar-programmer/E2E-Medillian-Architecture-LakeHouse): An orchestrated batch processing pipeline that ingests raw JSON, applies a "Universal Bronze Shield" for schema protection, performs complex cross currency joins, and serves aggregated financial data via Databricks AI/BI Genie spaces. 
 
 ### 💻 Tech Stack
 * **Core:** Python, PySpark, SQL
