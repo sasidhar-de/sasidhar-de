@@ -9,7 +9,7 @@ Welcome to my digital workspace! I specialize in engineering scalable, fault tol
 
 ### 🏆 Featured Projects
 * [**Enterprise 1TB Medallion Lakehouse**](https://github.com/sasidhar-de/Enterprise-Medallion-Lakehouse): A petabyte-ready Databricks architecture processing 1TB of TPC-DS retail data. Engineered with automated CI/CD via Databricks Asset Bundles (DABs) and GitHub Actions. Features advanced Spark memory optimization (zero disk spill), SCD Type 2 tracking, and Incremental MERGE strategies for sub-second executive BI rendering.
-* [**Prx Enterprise Lakehouse**](https://github.com/sasidhar-de/E2E-Medillian-Architecture-LakeHouse): An orchestrated batch processing pipeline that ingests raw JSON, applies a "Universal Bronze Shield" for schema protection, performs complex cross currency joins, and serves aggregated financial data via Databricks AI/BI Genie spaces. 
+* [**Enterprise Lakehouse**](https://github.com/sasidhar-de/E2E-Medillian-Architecture-LakeHouse): An orchestrated batch processing pipeline that ingests raw JSON, applies a "Universal Bronze Shield" for schema protection, performs complex cross currency joins, and serves aggregated financial data via Databricks AI/BI Genie spaces. 
 
 ### 💻 Tech Stack
 * **Core:** Python, PySpark, SQL
